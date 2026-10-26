@@ -1,0 +1,25 @@
+/* Measured design of the business's current website (rebuild.vn design tokens). */
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+:root {
+  --color-primary: #21722d;
+  --color-secondary: #e85c00;
+  --color-accent: #2e83a7;
+  --color-background: #ffffff;
+  --color-bg: #ffffff;
+  --color-text: #3d3d3d;
+  --color-muted: #cfcfcf;
+  --color-border: #ffffff33;
+  --color-link: #007c21;
+  --font-body: "Roboto", system-ui, sans-serif;
+  --font: "Roboto", system-ui, sans-serif;
+  --font-heading: "Poppins", system-ui, sans-serif;
+  --font-size-body: 16px;
+  --font-size-h3: 26px;
+  --radius-sm: 3px;
+  --radius-md: 10px;
+  --radius-pill: 9999px;
+  --radius: 10px;
+  --container: 1140px;
+  --space-unit: 5px;
+}
